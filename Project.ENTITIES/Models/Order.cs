@@ -13,7 +13,7 @@ namespace Project.ENTITIES.Models
         // relational properties
         public int AppUserID { get; set; }
 
-        public virtual AppUser AppUser { get; set; } // bir sipariş - bir kullanıcı
+        public virtual AppUser AppUser { get; set; } 
 
         public virtual List<OrderDetail> OrderDetails { get; set; }  // çoka çok ilişki - junction table
     }
