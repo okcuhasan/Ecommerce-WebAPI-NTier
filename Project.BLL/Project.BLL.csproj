@@ -14,7 +14,6 @@
 
   <ItemGroup>
     <Folder Include="DependencyResolvers\" />
-    <Folder Include="ManagerServices\Concretes\" />
   </ItemGroup>
 
 </Project>
