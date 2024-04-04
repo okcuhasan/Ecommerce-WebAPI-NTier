@@ -13,7 +13,7 @@ namespace Project.DAL.Configurations
     {
         public virtual void Configure(EntityTypeBuilder<T> builder)
         {
-            throw new NotImplementedException();
+            
         }
     }
 }
